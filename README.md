@@ -2,7 +2,7 @@
 
 This is the **backend API** for the Logistics Web Portal, built using **NestJS**. It provides a RESTful interface for managing shipment data and supports integration with the Angular frontend.
 
-👉 **Frontend Repository**: [logistics-web-portal-frontend](https://github.com/doha-eid/logistics-web-portal-frontend)
+👉 **Frontend Repository**: [logistics-web-portal-frontend](https://github.com/doha-eid/WebPortal)
 
 ---
 
